@@ -1,0 +1,473 @@
+.section1{
+    padding: 150px 20px;
+    align-items: center;
+    background-color:green;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+   
+  
+}
+.section1-inner{
+    align-items: center;
+    justify-content: space-around;
+}
+.section1-left{
+    width: 50%;
+    padding: 15px;
+
+}
+.section1-h{
+    color: white;
+    
+    font-size: 70px;
+
+    align-items: start;
+    
+}
+.section1-p{
+    padding: 10px;
+    padding-left: 20px;
+    color: white;
+}
+.section1-right{
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.section1-img{
+    width: 100%;
+    height: 60%;
+    border-radius: 10px;
+}
+.section2{
+    padding: 150px 20px;
+    align-items: center;
+    background-color:white;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+}
+.section2-inner{
+    align-items: center;
+    justify-content: space-around;
+}
+.section2-left{
+    width: 50%;
+    padding: 15px;
+
+}
+.section2-h{
+    color: green;
+    font-size: 70px;
+    margin: 0px;
+    align-items: start;
+    
+}
+.section2-p{
+    padding-left: 20px;
+    color: #333;
+    margin: 0px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.section2-right{
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.section2-img{
+    width: 100%;
+    height: 60%;
+    border-radius: 10px;
+}
+
+
+
+.section3{
+    background-image: url(/images/COLOURBOX30300159.webp);
+    width: 100%;
+    background-position: center;
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    background-size: cover;
+}
+.section3-inner{
+    background-color: green;
+    padding: 10px;
+    margin: 0px;
+    width: 70%;
+}
+.section3-h{
+    color: white;
+    padding: 4px;
+    font-weight: 700;
+    font-size: 120px;
+    margin: 0px;
+}
+
+.section4{
+    padding: 80px 50px;
+    width: 100%;
+    background-position: center;
+
+    height: auto;
+    align-items: center;
+    background-size: cover;
+}
+.section4-inner{
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+    width: 75%;
+}
+
+
+.section4-p1{
+    color: #333;
+    font-size: 24px;
+    
+    font-weight: 600;
+    padding: 10px 0px;
+    padding-bottom: 80px;
+
+}
+.section4-content{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    
+}
+.section4-p2{
+    color: #333;
+    font-size: 20px;
+    
+    font-weight: 600;
+    padding: 10px 0px;
+}
+.section4-div{
+    
+    justify-content: space-around;
+    width: 45%;
+}
+.section4-header {
+    background-color: green;
+    color: white;
+    font-size: 70px;
+    font-weight: 700;
+    padding: 5px 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.section4-icon{
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    margin: 0px;
+    margin-right: 15px;
+    padding: 0px;
+}
+.section4-title{
+    font-size: 20px;
+    margin: 0px;
+}
+.section4-p{
+    color: #333;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 0px;
+
+}
+.section5{
+    padding: 30px 20px;
+
+}
+
+.section5-h{
+    color: green;
+    font-weight: 700;
+    font-size: 70px;
+    padding: 5px 0px;
+}
+.section5-img{
+    width: 50%;
+    height: auto;
+    border-radius: 10px;
+}
+.section5-right{
+    width: 50%;
+    padding: 10px;
+   
+
+}
+.section5-p{
+    font-size: 20px;
+    color: #333;
+    padding: 5px;
+}
+.section5-left-h{
+    color: green;
+    font-size: 22px;
+    font-weight: 700;
+    
+}
+.section6{
+    background-image: url(/images/structures-architecture-from-new-york-city_23-2150819970.jpg);
+    width: 100%;
+    background-position: center;
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    background-size: cover;
+}
+.section6-inner{
+    background-color: green;
+    padding: 10px;
+    margin: 0px;
+    width: 70%;
+}
+.section6-h{
+    color: white;
+    padding: 4px;
+    font-weight: 700;
+    font-size: 120px;
+    margin: 0px;
+}
+.section7{
+    padding: 80px 50px;
+    width: 100%;
+    background-position: center;
+
+    height: auto;
+    align-items: center;
+    background-size: cover;
+}
+.section7-inner{
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+   
+}
+.section7-text{
+    font-size: 22px;
+    color: #333;
+    width: 70%;
+    padding-top: 30px;
+    font-weight: 600;
+    margin: auto;
+    padding-bottom: 50px;
+}
+.section7-cards{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+
+}
+.section7-cards-each{
+    padding: 0px 10px;
+    width: 22%;
+}
+.section7-cards-p{
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
+.section7-header{
+    background-color: green;
+    padding: 5px 10px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.section7-h{
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+    color: white;
+}
+.section8{
+    padding: 50px 30px;
+    width: 100%;
+}
+.section8-inner{
+    display: flex;
+    margin: 0px;
+    justify-content: space-around;
+}
+.section8-each{
+    width: 45%;
+    padding: 10px;
+    
+} 
+.section8-h{
+    font-size: 25px;
+    font-weight: 700;
+}
+.section8-list{
+    padding: 10px 0px;
+   
+    font-size: 25px;
+}
+
+.section8-p{
+    font-size: 20px;
+    padding: 10px 0px;
+}
+.section9{
+    background-color: #2222;
+    padding: 80px 0px;
+}
+.section9-inner{
+   background-color: whitesmoke;
+   box-shadow: 0px 0px 10px 0px #333;
+    padding: 5px;
+    width: 70%;
+    margin: auto;
+}
+.section9-content{
+    background-color: green;
+    padding: 40px 15px;
+}
+.section9-p{
+    color: white;
+    padding: 8px 0px;
+    font-size: 22px;
+}
+.section9-h{
+    color: white;
+    font-size: 30px;
+    padding: 5px 0px;
+    font-weight: 700;
+}
+
+.section10{
+   
+    width: 100%;
+    height: auto;
+    align-items: center;
+    display: flex;
+}
+.section10-image{
+    width: 25%;
+    height: auto;
+    border-radius: 10px;
+    margin: 0px;
+}
+.section10-img{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: auto;
+}
+.section10-inner{
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    
+    width: 75%;
+}
+.section10-div{
+    width: 45%;
+    padding: 10px;
+}
+.section10-header{
+    background-color: green;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 10px;
+    width: 100%;
+    align-items: center;
+}
+.section10-h{
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0px;
+}
+.section10-content{
+    padding: 4px 0px;
+    width: 100%;
+    border: 2px solid green;
+    padding: 15px;
+}
+.section10-title{
+    color: green;
+    font-weight: 600;
+}
+.section10-list-list{
+    color: #333;
+    font-weight: 600;
+    padding: 5px 0px;
+}
+.section10-p{
+    color: #333;
+    font-weight: 600;
+    padding: 5px 0px;
+}
+.section12{
+    background-image: url(/images/COLOURBOX30300159.webp);
+    width: 100%;
+    background-position: center;
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    background-size: cover;
+}
+.section12-inner{
+    background-color: green;
+    padding: 10px;
+    margin: 0px;
+    width: 70%;
+}
+.section12-h{
+    color: white;
+    padding: 4px;
+    font-weight: 700;
+    font-size: 120px;
+    margin: 0px;
+}
+.setion13{
+    padding: 80px 50px;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    background-image: url(/images/COLOURBOX30300159.webp);
+}
+.section14{
+    padding: 80px 50px;
+    width: 100%;
+    height: auto;
+    align-items: center;
+}
+.section14-inner{
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+}
+.section14-h{
+    color: green;
+    font-size: 70px;
+    margin: 0px;
+    text-align: center;
+    padding: 25px 0px;
+}
+.section14-text{
+    font-size: 22px;
+    color: #333;
+   
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #2222;
+}
+.section14-p{
+    padding: 10px 0px;
+}
+.section14-footer{
+    color: green;
+    text-align: left;
+}
